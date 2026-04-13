@@ -19,6 +19,18 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Rowzatul-2001/prerona.github.io"
 remote_theme: "mmistakes/minimal-mistakes"
 
+# Author
+author:
+  avatar           : "/profile.png"
+  name             : "Rowzatul Zannath Prerona"
+  pronouns         : "she/her"  
+  bio              : "Aspiring researcher currently learning the ropes of Medical Image Processing."
+  location         : "Dhaka, Bangladesh"
+  email            : "rowzatulzannathprerona@gmail.com"
+  github           : "https://github.com/Rowzatul-2001"
+  linkedin         : "https://www.linkedin.com/in/rowzatul-zannath-493886253/"
+
+# Plugins (merged + fixed)
 plugins:
   - jekyll-include-cache
   - jekyll-feed
@@ -28,6 +40,15 @@ plugins:
   - jekyll-redirect-from
   - jemoji
 
+# Minimal settings (keep rest same if needed)
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+timezone: Etc/UTC
+
+sass:
+  sass_dir: _sass
+  style: compressed
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
