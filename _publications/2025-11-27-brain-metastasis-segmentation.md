@@ -1,6 +1,7 @@
 ---
 title: "Hard Spatial Gating for Precision-Driven Brain Metastasis Segmentation: Addressing the Over-Segmentation Paradox in Deep Attention Networks"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-11-27-brain-metastasis-segmentation
 excerpt: 'Brain metastasis segmentation in MRI remains a formidable challenge due to diminutive lesion sizes (5-15 mm) and extreme class imbalance. This paper identifies the "over-segmentation paradox" in soft-attention CNNs and proposes a hard spatial gating mechanism to address precision collapse.'
 date: 2025-11-27
