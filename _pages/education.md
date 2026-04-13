@@ -13,14 +13,14 @@ CGPA: **3.46/4.00** scale
 
 ---
 
-<h3><a href="https://holycrosscollege.edu.bd" style="color: #52adc8; text-decoration: none;">Holy Cross College Dhaka</a></h3>
+<h3><a href="http://www.hcc.edu.bd/" style="color: #52adc8; text-decoration: none;">Holy Cross College Dhaka</a></h3>
 Higher Secondary Certificate (HSC)  
 Duration: 2018 - 2020  
 GPA: **5.00/5.00** scale
 
 ---
 
-<h3><a href="https://idealschooldhanmondi.edu.bd" style="color: #52adc8; text-decoration: none;">Ideal School and College</a></h3>
+<h3><a href="https://iscm.edu.bd/" style="color: #52adc8; text-decoration: none;">Ideal School and College</a></h3>
 Secondary School Certificate (SSC)  
 Duration: 2015 - 2018  
 GPA: **5.00/5.00** scale
