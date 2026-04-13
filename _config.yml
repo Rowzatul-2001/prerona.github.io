@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Rowzatul Zannath Prerona"
 description              : &description "Rowzatul Zannath Prerona's academic portfolio"
 url                      : "https://Rowzatul-2001.github.io"
-baseurl                  : ""
+baseurl                  : "/prerona.github.io"
 repository               : "Rowzatul-2001/prerona.github.io"
 remote_theme             : mmistakes/minimal-mistakes
 
