@@ -8,8 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "dark"
-minimal_mistakes_skin    : "dark"
+site_theme               : "default"
 title                    : "Rowzatul Zannath Prerona"
 title_separator          : "-"
 name                     : &name "Rowzatul Zannath Prerona"
