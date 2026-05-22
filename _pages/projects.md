@@ -5,8 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-
-
 ---
 
 ## 1. EfficientNet-CBAM: Attention-Guided Brain Tumor Classification
