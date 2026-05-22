@@ -5,9 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-# Projects
 
-A collection of research-oriented and applied projects spanning medical image analysis, computer vision, and software development.
 
 ---
 
@@ -47,7 +45,7 @@ A multifaceted web platform designed to address critical gaps in animal rescue a
 
 **Tech Stack:** PHP, HTML, CSS, JavaScript, MySQL, XAMPP, phpMyAdmin
 
-**[View on GitHub](https://github.com/rowzatul-2001/planetPaw)** · **[Watch Screencast](https://www.youtube.com/watch?v=lbUFbhwnwf0)**
+**[View on GitHub](https://github.com/rowzatul-2001/planetPaw)** · **[Watch Screencast](https://www.youtube.com/watch?v=IbUFbhwnwf0)**
 
 ---
 
@@ -58,3 +56,12 @@ A full-stack bookshop management system built to streamline inventory, sales, an
 **Tech Stack:** ASP.NET Core MVC, Bootstrap, HTML, CSS, SQL Server, .NET 8 SDK, SSMS
 
 **[View on GitHub](https://github.com/rowzatul-2001/LeafLedger)**
+
+
+## 5. Paw Prints Manager — Pet Care Mobile Application
+
+A comprehensive pet care mobile application built with Flutter, designed to serve as an all-in-one companion for pet owners. The app offers a **user profile module** where owners can upload and update their personal details and profile photo. The **pet profile module** allows users to maintain detailed records and photos for each of their pets. Financial management is handled through an **expense tracker** that monitors and summarizes monthly pet-related costs. A built-in **pet health encyclopedia** covers common diseases and syndromes, enabling users to search by concern and access relevant health information quickly. The **pet BMI calculator** computes body condition scores and categorizes pets as underweight, normal, or obese — prompting timely health action. An integrated **reminder system** helps owners stay on top of vet visits, medications, and routine care schedules.
+
+**Tech Stack:** Flutter, Dart
+
+**[View on GitHub](https://github.com/rowzatul-2001/android_initial_bot_project)**
