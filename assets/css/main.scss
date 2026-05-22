@@ -41,3 +41,75 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* ===== Blog Post Improvements ===== */
+
+.page__content {
+  font-size: 1.15em;
+  line-height: 1.9;
+}
+
+.page__content p {
+  margin-bottom: 1.4em;
+}
+
+.page__content h2 {
+  font-size: 1.5em;
+  border-left: 4px solid #6c8ebf;
+  padding-left: 14px;
+  margin-top: 2em;
+  margin-bottom: 0.6em;
+}
+
+.page__content h3 {
+  font-size: 1.2em;
+  margin-top: 1.6em;
+}
+
+.page__content strong {
+  color: #8ab4f8;
+}
+
+.page__content em {
+  color: #aac4e8;
+  font-style: italic;
+}
+
+.page__content blockquote {
+  border-left: 4px solid #6c8ebf;
+  background: rgba(108, 142, 191, 0.08);
+  padding: 14px 22px;
+  border-radius: 0 8px 8px 0;
+  font-style: italic;
+  margin: 1.5em 0;
+}
+
+.page__content hr {
+  border: none;
+  border-top: 1px solid #444;
+  margin: 2.5em 0;
+}
+
+.page__content ul li,
+.page__content ol li {
+  margin-bottom: 0.5em;
+  line-height: 1.8;
+}
+
+/* Light theme overrides */
+body:not(.dark) .page__content strong {
+  color: #1a56a0;
+}
+
+body:not(.dark) .page__content em {
+  color: #2d6fbd;
+}
+
+body:not(.dark) .page__content blockquote {
+  background: rgba(108, 142, 191, 0.06);
+  border-left-color: #2d6fbd;
+}
+
+body:not(.dark) .page__content h2 {
+  border-left-color: #2d6fbd;
+}
