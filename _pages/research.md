@@ -5,7 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research
 
 My research sits at the intersection of **Medical Image Processing** and **Computer Vision**, with a focused commitment to building deep learning systems that are not only accurate but clinically deployable. I am particularly drawn to problems where standard models fail silently — producing confident but unsafe predictions — and I work toward architectures that enforce precision, interpretability, and robustness as first-class design goals. My long-term vision is to develop AI tools that clinicians can genuinely trust in high-stakes diagnostic and surgical planning workflows.
 
