@@ -55,8 +55,9 @@ A full-stack bookshop management system built to streamline inventory, sales, an
 
 **[View on GitHub](https://github.com/rowzatul-2001/LeafLedger)**
 
+---
 
-## 5. Paw Prints Manager — Pet Care Mobile Application
+## 6. Paw Prints Manager — Pet Care Mobile Application
 
 A comprehensive pet care mobile application built with Flutter, designed to serve as an all-in-one companion for pet owners. The app offers a **user profile module** where owners can upload and update their personal details and profile photo. The **pet profile module** allows users to maintain detailed records and photos for each of their pets. Financial management is handled through an **expense tracker** that monitors and summarizes monthly pet-related costs. A built-in **pet health encyclopedia** covers common diseases and syndromes, enabling users to search by concern and access relevant health information quickly. The **pet BMI calculator** computes body condition scores and categorizes pets as underweight, normal, or obese — prompting timely health action. An integrated **reminder system** helps owners stay on top of vet visits, medications, and routine care schedules.
 
