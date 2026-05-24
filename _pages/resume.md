@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 <div class="resume-download-section" style="text-align: center; margin: 2em 0 3em 0;">
-  <p style="font-size: 1.1em; color: #555; margin-bottom: 1em;">
+  <p style="font-size: 1.1em; margin-bottom: 1em; color: inherit; opacity: 0.85;">
     Download my full resume as a PDF below.
   </p>
   <a href="/prerona.github.io/files/resume.pdf" 
      class="btn btn--primary btn--large" 
      download="Rowzatul_Zannath_Prerona_Resume.pdf"
-     style="display: inline-flex; align-items: center; gap: 8px; padding: 12px 28px; font-size: 1em; border-radius: 6px;">
+     style="display: inline-flex; align-items: center; gap: 8px; padding: 12px 28px; font-size: 1em; border-radius: 6px; background-color: #2e86ab; color: #ffffff; border: 2px solid #2e86ab;">
     <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
     Download Resume (PDF)
   </a>
