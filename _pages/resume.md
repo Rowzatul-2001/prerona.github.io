@@ -26,14 +26,24 @@ redirect_from:
 
 ## Education
 
-**B.Sc. in Computer Science and Engineering** — 2022–2026  
+**B.Sc. in Computer Science and Engineering** - 2022-2026  
 Ahsanullah University of Science and Technology, Dhaka | CGPA: 3.46
 
-**Higher Secondary Certificate** — 2018–2020  
+**Higher Secondary Certificate** - 2018-2020  
 Holy Cross College, Dhaka | GPA: 5.00
 
-**Secondary School Certificate** — 2015–2018  
+**Secondary School Certificate** - 2015-2018  
 Ideal School and College, Motijheel, Dhaka | GPA: 5.00
+
+---
+
+## Publications
+
+**Spectral-Spatial Mamba with Uncertainty-Guided Refinement for Thyroid Nodule Diagnosis**  
+*Array* (Elsevier), 2026 - Co-authored with Mohammad Amanour Rahman. Proposed SSMURNet, achieving 92.50% accuracy and 0.9700 AUROC on thyroid nodule malignancy classification from ultrasound images. [DOI: 10.1016/j.array.2026.101058](https://doi.org/10.1016/j.array.2026.101058)
+
+**Hard Spatial Gating for Precision-Driven Brain Metastasis Segmentation: Addressing the Over-Segmentation Paradox in Deep Attention Networks**  
+arXiv preprint, 2025 - Sole-authored. Introduced SG-Net, achieving a threefold improvement in boundary precision over Attention U-Net with 8.8x fewer parameters. [arXiv:2511.22606](https://arxiv.org/abs/2511.22606)
 
 ---
 
@@ -49,20 +59,26 @@ Ideal School and College, Motijheel, Dhaka | GPA: 5.00
 
 ## Areas of Interest
 
-Medical Image Processing · Deep Learning · Computer Vision · AI in Healthcare · Semantic Segmentation
+Medical Image Processing - Medical Image Segmentation - Deep Learning for Radiology - Computer Vision - Uncertainty Quantification in Medical AI - Explainable AI (XAI) for Healthcare - AI-based Clinical Decision Support - Semantic Segmentation
 
 ---
 
 ## Projects
 
 **EfficientNet-CBAM: Attention-Guided Brain Tumor Classification**  
-Integrated CBAM into EfficientNetB3 for multi-class MRI tumor classification — achieving 99.29% accuracy with HiResCAM explainability.
+Integrated CBAM into EfficientNetB3 for multi-class MRI tumor classification, achieving 99.29% accuracy with HiResCAM explainability.
 
-**Deforestation Mapping in Dhaka — Semantic Segmentation**  
-Built a satellite imagery dataset (2012–2022) and benchmarked U-Net, Attention U-Net, and ResNet50-Attention U-Net architectures.
+**Deforestation Mapping in Dhaka - Semantic Segmentation**  
+Built a satellite imagery dataset (2012-2022) and benchmarked U-Net, Attention U-Net, and ResNet50-Attention U-Net architectures.
 
-**Planet Paw — Animal Rescue & Welfare Platform**  
+**Planet Paw - Animal Rescue & Welfare Platform**  
 Full-stack web platform with donation, adoption, and medical aid features using PHP/MySQL.
 
-**LeafLedger — Bookshop Management System**  
+**LeafLedger - Bookshop Management System**  
 ASP.NET Core MVC app with inventory, sales, and admin operations backed by SQL Server.
+
+**Spreed Love for Pet - Pet Management Desktop Application**  
+Java desktop app for pet profile management, health monitoring, expense tracking, and community engagement.
+
+**Paw Prints Manager - Pet Care Mobile Application**  
+Flutter-based all-in-one pet care app with expense tracker, health encyclopedia, BMI calculator, and vet reminder system.
