@@ -8,8 +8,10 @@ redirect_from:
 
 Hi there! 🍀
 
-I am **Rowzatul Zannath Prerona**, a Computer Science and Engineering (CSE) graduate from Ahsanullah University of Science and Technology (AUST). I am currently focused on research in **Medical Image Processing**, working at the intersection of deep learning and clinical imaging.
+I am **Rowzatul Zannath Prerona**, a Computer Science and Engineering (CSE) graduate from Ahsanullah University of Science and Technology (AUST), Dhaka. My research interests lie at the intersection of deep learning and medical imaging, where I work on building AI systems that support clinical decision-making in radiology and diagnostics.
 
-My work centers on developing AI-driven solutions for medical diagnostics — including attention-guided deep learning models for tumor classification, semantic segmentation for medical and satellite imagery, and uncertainty-aware frameworks for clinical decision support. I have co-authored a publication in *Array (Elsevier)* on spectral-spatial modeling for thyroid nodule diagnosis, and authored a preprint on precision-driven brain metastasis segmentation.
+Over the past few years, I have worked on problems spanning tumor classification, medical image segmentation, and uncertainty-aware deep learning, alongside broader experience in full-stack software development. I am particularly drawn to research that combines technical rigor with real-world clinical relevance — models that are not just accurate, but interpretable, reliable, and deployable in practice.
 
-I am actively seeking opportunities to continue and deepen my research in Medical Image Processing, Explainable AI (XAI) for Healthcare, and Medical Image Segmentation, with the goal of contributing meaningful, clinically relevant AI solutions.
+I am currently continuing my research in Medical Image Processing, with a focus on Explainable AI (XAI) for Healthcare and Medical Image Segmentation, and I am actively seeking **research collaborations** with labs, researchers, and groups working in medical AI and related fields. If you are working on problems in this space and think there might be a fit, I would love to connect.
+
+Outside of research, I enjoy staying current with advances in computer vision and medical AI research, and I am always open to connecting with others working in medical AI or related fields.
