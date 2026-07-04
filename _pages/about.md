@@ -8,8 +8,8 @@ redirect_from:
 
 Hi there! 🍀
 
-I am **Rowzatul Zannath Prerona**, currently in my final year pursuing a Bachelor's degree in Computer Science and Engineering (CSE) at Ahsanullah University of Science and Technology (AUST). As I am about to complete my undergraduate studies, my academic focus and research interests are deeply centered around the fascinating field of **Medical Image Processing**.
+I am **Rowzatul Zannath Prerona**, a Computer Science and Engineering (CSE) graduate from Ahsanullah University of Science and Technology (AUST). I am currently focused on research in **Medical Image Processing**, working at the intersection of deep learning and clinical imaging.
 
-As an enthusiastic learner, my journey is driven by a strong passion for integrating computer science with healthcare. I am exploring how artificial intelligence and advanced computational models can be utilized to analyze medical imagery, aiming to improve diagnostic accuracy and patient outcomes. My career aspiration is to continuously grow as a researcher and contribute to impactful AI solutions in the medical domain.
+My work centers on developing AI-driven solutions for medical diagnostics — including attention-guided deep learning models for tumor classification, semantic segmentation for medical and satellite imagery, and uncertainty-aware frameworks for clinical decision support. I have co-authored a publication in *Array (Elsevier)* on spectral-spatial modeling for thyroid nodule diagnosis, and authored a preprint on precision-driven brain metastasis segmentation.
 
-I am actively building my research portfolio. I am continuously exploring cutting-edge techniques to extract meaningful insights from complex medical data.
+I am actively seeking opportunities to continue and deepen my research in Medical Image Processing, Explainable AI (XAI) for Healthcare, and Medical Image Segmentation, with the goal of contributing meaningful, clinically relevant AI solutions.
