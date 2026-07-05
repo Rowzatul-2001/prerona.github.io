@@ -21,7 +21,7 @@ Extending this line of work from segmentation to diagnosis, I proposed **SSMURNe
 
 **Related Papers:**
 - [Hard Spatial Gating for Precision-Driven Brain Metastasis Segmentation: Addressing the Over-Segmentation Paradox in Deep Attention Networks](https://arxiv.org/abs/2511.22606). Rowzatul Zannath Prerona. *arXiv:2511.22606 [eess.IV]*, Nov 2025.
-- - [Spectral–Spatial Mamba with Uncertainty-Guided Refinement for Thyroid Nodule Diagnosis](https://doi.org/10.1016/j.array.2026.101058). Mohammad Amanour Rahman and Rowzatul Zannath Prerona. *Array (Elsevier)*, 2026.
+- [Spectral–Spatial Mamba with Uncertainty-Guided Refinement for Thyroid Nodule Diagnosis](https://doi.org/10.1016/j.array.2026.101058). Mohammad Amanour Rahman and Rowzatul Zannath Prerona. *Array (Elsevier)*, 2026.
 
 ---
 
