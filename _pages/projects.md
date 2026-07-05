@@ -64,3 +64,13 @@ A comprehensive pet care mobile application built with Flutter, designed to serv
 **Tech Stack:** Flutter, Dart
 
 **[View on GitHub](https://github.com/rowzatul-2001/android_initial_bot_project)**
+
+---
+
+## 7. MedXAI — Lightweight Toolkit for Medical Imaging AI
+
+An open-source, lightweight, and reproducible toolkit for medical imaging AI research, built to lower the barrier to developing and validating trustworthy deep learning models in clinical imaging. MedXAI provides ready-to-use implementations of segmentation metrics and loss functions commonly needed across medical imaging pipelines, along with Explainable AI (XAI) methods such as **Grad-CAM** to help researchers interpret and audit model predictions rather than treating them as black boxes. The project is an ongoing collaborative effort focused on standardizing reusable, well-tested infrastructure so that medical imaging researchers can focus on modeling rather than reimplementing common utilities from scratch.
+
+**Tech Stack:** Python, PyTorch, Grad-CAM, Explainable AI (XAI)
+
+**[View on GitHub](https://github.com/aman0311x/medxai)** · **[My Contributions](https://github.com/aman0311x/medxai/commits?author=Rowzatul-2001)**
