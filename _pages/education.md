@@ -9,7 +9,7 @@ author_profile: true
 Bachelor of Science (B.Sc.)  
 Computer Science and Engineering  
 Duration: 2022 - 2026  
-CGPA: **3.46/4.00** scale
+CGPA: **3.43/4.00** scale
 
 ---
 

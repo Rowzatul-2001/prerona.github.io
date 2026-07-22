@@ -27,7 +27,7 @@ redirect_from:
 ## Education
 
 **B.Sc. in Computer Science and Engineering** - 2022-2026  
-Ahsanullah University of Science and Technology, Dhaka | CGPA: 3.46
+Ahsanullah University of Science and Technology, Dhaka | CGPA: 3.43
 
 **Higher Secondary Certificate** - 2018-2020  
 Holy Cross College, Dhaka | GPA: 5.00
